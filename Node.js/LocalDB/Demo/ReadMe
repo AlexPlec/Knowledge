@@ -1,0 +1,3 @@
+cd Node.js/LocalDB/Demo
+npm install
+node Game.js
