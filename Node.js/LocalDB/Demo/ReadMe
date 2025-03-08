@@ -1,3 +1,14 @@
+## Project Navigate
+```sh
 cd Node.js/LocalDB/Demo
+```
+
+## Project Setup
+```sh
 npm install
+```
+
+## Project Run
+ ```sh
 node Game.js
+```
