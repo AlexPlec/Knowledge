@@ -35,17 +35,3 @@ npm install
 Once the dependencies are installed, you can start the project by executing the main script:
 
 node Game.js
-
-## Setting Up the Local Database
-
-1. Install SQLite, as LocalDB might be using it as the local database solution.
-
-2. Create the necessary database files or schemas as per the project's documentation.
-
-3. Configure the database connection in the project's configuration files.
-
-## Contributions
-
-- AlexPlec for initial setup and contributions.
-
-- [List other contributors here]
