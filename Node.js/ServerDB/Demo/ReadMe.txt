@@ -12,7 +12,7 @@ Make sure you have Node.js installed on your system. You can download it from th
 
 Clone the project repository using Git:
 
-git clone https://github.com/AlexPlec/ServerDB-Demo.git
+git clone https://github.com/AlexPlec/ServerDB/Demo.git
 
 Then, navigate into the project directory:
 
